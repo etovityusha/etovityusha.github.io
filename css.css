@@ -1,13 +1,18 @@
+html, body
+{
+  margin: 0;
+  padding: 0;
+}
 
 .workspace{
-	width: 1000px;
+	width: 1200px;
 	margin-left: auto;
     margin-right: auto;
 }
 
 .block-left{
 	width:70%;
-	height:1150px;
+	height:1250px;
 	overflow:visible;
 	float:left;
 	background-color: #ebebeb;
@@ -16,7 +21,7 @@
 	
 .block-right{
 	width:30%;
-	height:1150px;
+	height:1250px;
 	overflow:auto;
 	background-color: #d6d6d6;
 	}
@@ -64,7 +69,7 @@ h0{
 }
 
 h2{
-	margin-top: 10px;
+	margin-top: 30px;
 	font-family: "Courier New";
 	font-size: 16px;
 }
